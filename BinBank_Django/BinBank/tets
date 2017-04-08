@@ -1,0 +1,13 @@
+ card_ID
+ first_name
+last_name
+    phone
+    email
+    balance
+    parerent_ID
+    password
+    online_cashing_bit
+    max_per_day
+    max_payment
+    low_balance
+    max_cashing
